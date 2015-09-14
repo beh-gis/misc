@@ -16,7 +16,7 @@ Via [Columbia University Information Technology - File Transfer Software](https:
 				
 				mcftp.mc.cumc.columbia.edu
 
-		* For external CUMC use (non-Columbia University Medical Center affiliear):
+		* For external CUMC use (non-Columbia University Medical Center affiliate):
 				
 				mcftp.cumc.columbia.edu
 
