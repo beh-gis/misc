@@ -11,15 +11,18 @@ Via [Columbia University Information Technology - File Transfer Software](https:
 
 2. ###Login in with the information below. 
 
-		Secure FTP (SFTP):
-		For internal CUMC use:
-		mcftp.mc.cumc.columbia.edu
+	* Secure FTP (SFTP):
+		* For internal CUMC use (Columbia University Medical Center affiliate):
+				
+				mcftp.mc.cumc.columbia.edu
 
-		For external  CUMC use:
-		mcftp.cumc.columbia.edu
+		* For external CUMC use (non-Columbia University Medical Center affiliear):
+				
+				mcftp.cumc.columbia.edu
 
-		Username:
-		msphit
+		* Username:
+			
+				msphit
 
 
 3. ###SFTP Password:
