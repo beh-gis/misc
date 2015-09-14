@@ -5,7 +5,7 @@
 
 
 ###To Add:
-[] How to use Columbia's SFTP (SecureFTP) Login.
+*[] How to use Columbia's SFTP (SecureFTP) Login.
 
 
 ###Completed:
