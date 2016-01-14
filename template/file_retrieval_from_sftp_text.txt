@@ -1,0 +1,23 @@
+
+
+Your file is encrypted and ready for download here:
+	For internal use:
+	mcftp.mc.cumc.columbia.edu
+
+	For external use:
+	mcftp.cumc.columbia.edu
+
+	At the location:
+	beh/cohd/cohd.zip
+
+	Username: msphit
+	PWD: The password to open this file will be mailed to an alternate email address. Please supply me with this address and I will email the password from my personal email account. 
+
+	Note: You must use an FTP client, such as Filezila to access this server and you must use SFTP. 
+
+To access the SFTP please follow the following instructions:
+https://github.com/beh-gis/misc/tree/master/sftp
+
+
+
+
